@@ -1,0 +1,21 @@
+{
+  "name": "@ecmendenhall/ds-test",
+  "version": "0.0.1",
+  "description": "Unofficial NPM distribution of the ds-test solidity unit testing framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecmendenhall/ds-test.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "dapptools",
+    "forge",
+    "ds-test"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ecmendenhall/ds-test/issues"
+  },
+  "homepage": "https://github.com/ecmendenhall/ds-test#readme"
+}
